@@ -1,6 +1,6 @@
 {
   "name": "ntp-guru",
   "tagline": "Demonstrating a (scale out|cloud-native|microservices) NTP Service",
-  "body": "### first explorations\r\n- which ntp server?  ntpd, openntpd, chronyd?\r\n- to docker or not to docker?\r\n- exploring godaddy's DNS offering\r\n\r\n### authors and contributors\r\nI am @tobybot11\r\n\r\n",
+  "body": "### first explorations\r\n- which ntp server?  ntpd, openntpd, chronyd?\r\n- to docker or not to docker?\r\n- exploring godaddy's DNS offering\r\n\r\n### inspiration\r\n- [pool.ntp.org](http://www.pool.ntp.org/en/)\r\n\r\n### authors and contributors\r\nI am @tobybot11\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
